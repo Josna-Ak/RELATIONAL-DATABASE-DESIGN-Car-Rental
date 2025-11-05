@@ -11,7 +11,7 @@ The system manages **vehicles, customers, bookings, pricing, and service schedul
 - Vehicle servicing schedules and user registration  
 
 ## 📊 ER Diagram
-![ER Diagram](ER Diagram.png)
+![ER Diagram](RELATIONAL-DATABASE-DESIGN-Car-Rental/ER Diagram.png)
 
 ## 🧠 Skills Demonstrated
 **SQL**, **MariaDB**, **Data Modeling**, **ER Diagrams**, **Requirement Analysis**, **Database Documentation**
