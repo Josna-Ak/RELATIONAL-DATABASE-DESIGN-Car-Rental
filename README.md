@@ -1,7 +1,7 @@
 # RELATIONAL-DATABASE-DESIGN-MariaDB
 
 # Car Rental System Database (MariaDB)
-HEriot watt year 2 gruop project focused on designing a **relational database** for a car rental company using **MariaDB**.
+Heriot watt year 2 gruop project focused on designing a **relational database** for a car rental company using **MariaDB**.
 
 ## 📘 Overview
 The system manages **vehicles, customers, bookings, pricing, and service schedules**, incorporating realistic business rules like:
@@ -12,4 +12,4 @@ The system manages **vehicles, customers, bookings, pricing, and service schedul
 ## 🧠 Skills Demonstrated
 **SQL**, **MariaDB**, **Data Modeling**, **ER Diagrams**, **Requirement Analysis**, **Database Documentation**
 
-###created on 16 feb 2024
+## created on 16 feb 2024
